@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "First htb box"
-date: "2021-05-24:27"
+date: "2021-05-24 07:27"
 excerpt: "Writup on my first box"
 comments: true
 ---
