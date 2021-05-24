@@ -1,7 +1,7 @@
 ---
 layout: post
 published: false
-title: ''
+title: First htb box
 ---
 # My first Box
 
